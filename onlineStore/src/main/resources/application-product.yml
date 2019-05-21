@@ -1,0 +1,11 @@
+server:
+  port:8081
+
+atmMachine:
+  transferAmt: 2000
+  transferName: 周良帅
+
+jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
